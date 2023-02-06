@@ -1,6 +1,6 @@
 # Duplocator
 
-Duplocator is a simple duplicate file scanner. To use it just run it in the directory you want to scan and it will print all the duplicate files in that directory and all its subdirectories.
+Duplocator is a simple duplicate file scanner written in Haskell. To use it just run it in the directory you want to scan and it will print all the duplicate files in that directory and all its subdirectories.
 
 ## Quick Start
 
