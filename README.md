@@ -4,7 +4,7 @@ Duplocator is a simple duplicate file scanner written in Haskell. To use it just
 
 ## Quick Start
 
-clone this repository the run:
+clone this repository then run:
 
 `cabal install`
 
